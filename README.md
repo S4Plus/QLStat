@@ -102,10 +102,11 @@ Contributions are welcome! If you encounter any issues while using QLStat, or ha
 # Citation
 
 ```bibtex
-@misc{qlstat,
-    author = {Qingwei Li},
-    title = {QLStat},
-    howpublished = {\url{https://github.com/Lslightly/QLStat}},
+@software{Li_QLStat,
+    author = {Li, Qingwei and Ding, Boyao and Zhang, Yu and Chen, Jinbao},
+    license = {Apache-2.0},
+    title = {{QLStat}},
+    url = {https://github.com/s4plus/QLStat}
 }
 
 @article{li2026empiricalMemPerfSafetyGo,
